@@ -1,4 +1,4 @@
-<h1>Hello, I'm Matthew, an <a href="www.linkedin.com/in/matthewgrzegorski">IT Professional</a>☺</h1>
+<h1>Hello, I'm Matthew, an <a href="www.linkedin.com/in/matthewgrzegorski">IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
